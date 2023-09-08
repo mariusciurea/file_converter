@@ -19,8 +19,9 @@ from tkinter import messagebox
 
 __auther__ = 'Marius Ciurea'
 __email__ = 'marius.ciurea@itschool.ro, ciurea.marius1@gmail.com'
+__version__ = 1.0
 
-__all__ = ['ConverterGUI']
+__all__ = ['ConverterGUI', 'FileConversion']
 
 
 class FileConversion:
